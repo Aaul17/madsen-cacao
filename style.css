@@ -27,6 +27,12 @@ li {
   margin-left: -30px;
 }
 
+#header-logo {
+  height: 400px;
+  margin-bottom: -70px;
+  margin-top: -150px;
+}
+
 #first-section {
   padding: 20px;
 }
